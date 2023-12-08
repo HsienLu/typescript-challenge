@@ -10,7 +10,7 @@
 ```
 // 安裝 NPM
 npm install
-// 開發環境
+// 開發環境.
 npm run dev
 // 執行測試檔
 npm run test
